@@ -2,6 +2,11 @@
 Changelog for package rcss3d_nao
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Publish imu and joint states (`#22 <https://github.com/ros-sports/rcss3d_nao/issues/22>`_)
+* Contributors: Kenji Brameld
+
 1.1.0 (2023-09-02)
 ------------------
 * Add x,y,theta parameters to easily set initial position of robot
