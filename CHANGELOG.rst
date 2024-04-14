@@ -2,8 +2,8 @@
 Changelog for package rcss3d_nao
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.2.0 (2024-04-14)
+------------------
 * Publish imu and joint states (`#22 <https://github.com/ros-sports/rcss3d_nao/issues/22>`_)
 * Contributors: Kenji Brameld
 
